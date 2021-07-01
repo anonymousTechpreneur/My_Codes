@@ -1,1 +1,1 @@
-This Folder contain all my projects and assignments.
+This Folder contain all my projects and assignments with their introduction.
