@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Tomato_Leaf_disease_Transfer_Learning" />
+    <orderEntry type="module" module-name="simple-python-camera-viewer-opencv3-PyQt5-master" />
+    <orderEntry type="module" module-name="Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master" />
+    <orderEntry type="module" module-name="PSPNet" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

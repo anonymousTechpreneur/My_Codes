@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gujarathi_character_recognition_CNN.iml" filepath="$PROJECT_DIR$/.idea/Gujarathi_character_recognition_CNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Dataset/Sat_Image/Semantic-Segmentation-of-Satellite-Images-using-Deep-Learning-master/Semantic-Segmentation-of-Satellite-Images-using-Deep-Learning-master/PSPNet/.idea/PSPNet.iml" filepath="$PROJECT_DIR$/../../Dataset/Sat_Image/Semantic-Segmentation-of-Satellite-Images-using-Deep-Learning-master/Semantic-Segmentation-of-Satellite-Images-using-Deep-Learning-master/PSPNet/.idea/PSPNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../AI_Projects/Codes/Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master/Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master/.idea/Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master.iml" filepath="$PROJECT_DIR$/../../../AI_Projects/Codes/Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master/Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master/.idea/Review-On-Machine-Learning-Algorithms-For-Dengue-Disease-Spread-Prediction-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tomato_Leaf_disease_Transfer_Learning/.idea/Tomato_Leaf_disease_Transfer_Learning.iml" filepath="$PROJECT_DIR$/../Tomato_Leaf_disease_Transfer_Learning/.idea/Tomato_Leaf_disease_Transfer_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI/simple-python-camera-viewer-opencv3-PyQt5-master/.idea/simple-python-camera-viewer-opencv3-PyQt5-master.iml" filepath="$PROJECT_DIR$/../GUI/simple-python-camera-viewer-opencv3-PyQt5-master/.idea/simple-python-camera-viewer-opencv3-PyQt5-master.iml" />
+    </modules>
+  </component>
+</project>
