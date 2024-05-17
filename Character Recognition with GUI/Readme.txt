@@ -1,3 +1,3 @@
-Face recognition is a method of identifying or verifying the identity of an individual using their face. Face recognition systems can be used to identify people in photos, video, or in real-time.
+For unknown language character or symbol can be trained using deep learning to recognize it for different purpose
 
-The attendance system will track employee location, time of clocking/out, and the report recorded. The attendance system will then process the data, to produce timesheet reports, lateness reports, absence reports, task and request reports.
+It can be also used to recognize the numbers for application such as number plate recognition etc.

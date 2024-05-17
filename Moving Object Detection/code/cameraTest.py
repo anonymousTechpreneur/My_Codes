@@ -2,7 +2,7 @@ import cv2
 import time
 import imutils
 
-cam = cv2.VideoCapture(2)
+cam = cv2.VideoCapture(r"E:\ritika project\terror.mp4")
 time.sleep(1)
 
 firstFrame=None
